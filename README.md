@@ -85,14 +85,14 @@ The site will open in your default browser.
 
 👥 User Roles
 <br>
-Admin
+**Admin**
 Add, edit, and delete property listings.
 <br>
 Manage bookings, reviews, and feedback.
 <br>
 Update FAQs.
 <br>
-User
+**User**
 View and book properties.
 <br>
 Submit reviews and feedback.
@@ -101,12 +101,12 @@ Access FAQs and contact forms.
 <br>
 
 
-📜 License
+**📜 License**
 This project is licensed for educational and personal use only.
 For commercial use, please contact the author.
 
 
-🤝 Contributing
+**🤝 Contributing**
 Fork the repository.
 <br>
 Create a new branch:
@@ -121,9 +121,9 @@ git push origin feature/YourFeature
 Open a Pull Request.
 
 
-💡 Author Jainam Saraiya
+💡 **Author** Jainam Saraiya
 <br>
-📧 Email: jainamsaraiya9.com
+📧 **Email**: jainamsaraiya9.com
 <br>
-💼 LinkedIn: [https://www.linkedin.com/in/jainam-bharvad/]
----
+💼 **LinkedIn**: [https://www.linkedin.com/in/jainam-bharvad/]
+
